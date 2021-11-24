@@ -5,7 +5,7 @@ C#과 유니티를 활용한 MMO RPG 게임 서버 프로젝트입니다. <br>
 [Visual Studio](https://visualstudio.microsoft.com/ko/)와 [Unity](https://unity.com/kr)를 활용합니다.
 
 ## 🖥️ 동작 화면
-![example](https://i.postimg.cc/q79vwDTM/server.gif)
+![example](./server.gif)
 
 ## 🎯Main Contents
 
